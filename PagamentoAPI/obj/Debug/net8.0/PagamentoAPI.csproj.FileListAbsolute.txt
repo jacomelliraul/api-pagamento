@@ -1,0 +1,170 @@
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.staticwebassets.endpoints.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.exe
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.deps.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.runtimeconfig.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.pdb
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.AssemblyReference.cache
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfoInputs.cache
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfo.cs
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\scopedcss\bundle\PagamentoAPI.styles.css
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.PagamentoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.PagamentoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PagamentoAPI.props
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PagamentoAPI.props
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PagamentoAPI.props
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\Pagament.85F0AF9F.Up2Date
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\refint\PagamentoAPI.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.pdb
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.genruntimeconfig.cache
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\ref\PagamentoAPI.dll
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.AssemblyReference.cache
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfoInputs.cache
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfo.cs
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.CoreCompileInputs.cache
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\appsettings.json
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.staticwebassets.endpoints.json
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.exe
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.deps.json
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.runtimeconfig.json
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.pdb
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Google.Protobuf.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\MySql.Data.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\scopedcss\bundle\PagamentoAPI.styles.css
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.PagamentoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.PagamentoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PagamentoAPI.props
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PagamentoAPI.props
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PagamentoAPI.props
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\Pagament.85F0AF9F.Up2Date
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.dll
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\refint\PagamentoAPI.dll
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.pdb
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.genruntimeconfig.cache
+D:\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\ref\PagamentoAPI.dll
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.xml
+C:\Users\Raul Jacomelli\Desktop\PagamentoAPI\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.xml
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.staticwebassets.endpoints.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.exe
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.deps.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.runtimeconfig.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.pdb
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\PagamentoAPI.xml
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.AssemblyReference.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfoInputs.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.AssemblyInfo.cs
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\scopedcss\bundle\PagamentoAPI.styles.css
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\Pagament.85F0AF9F.Up2Date
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\refint\PagamentoAPI.dll
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.xml
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.pdb
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\PagamentoAPI.genruntimeconfig.cache
+C:\Users\Raul\Downloads\api-pagamento\PagamentoAPI\obj\Debug\net8.0\ref\PagamentoAPI.dll

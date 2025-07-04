@@ -1,0 +1,240 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "PagamentoAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Cartoes/{cartao}/obter-bandeira": {
+      "get": {
+        "tags": [
+          "Cartoes"
+        ],
+        "summary": "Obtem a bandeira do Cartao",
+        "parameters": [
+          {
+            "name": "cartao",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Cartoes/{cartao}/valido": {
+      "get": {
+        "tags": [
+          "Cartoes"
+        ],
+        "summary": "Verificar cartão válido",
+        "parameters": [
+          {
+            "name": "cartao",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Pagamentos/calcular-parcelas": {
+      "post": {
+        "tags": [
+          "Pagamentos"
+        ],
+        "summary": "Calcular Parcelas",
+        "requestBody": {
+          "description": "",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelasDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelasDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ParcelasDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Pagamentos": {
+      "post": {
+        "tags": [
+          "Pagamentos"
+        ],
+        "summary": "Efetuar um pagamento",
+        "requestBody": {
+          "description": "",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoRequestDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoRequestDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PagamentoRequestDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Pagamentos/{id}/situacao": {
+      "get": {
+        "tags": [
+          "Pagamentos"
+        ],
+        "summary": "Consultar situação da transação",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Pagamentos/{id}/confirmar": {
+      "put": {
+        "tags": [
+          "Pagamentos"
+        ],
+        "summary": "Confirmar pagamento",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Pagamentos/{id}/cancelar": {
+      "put": {
+        "tags": [
+          "Pagamentos"
+        ],
+        "summary": "Cancelar pagamento",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PagamentoRequestDTO": {
+        "type": "object",
+        "properties": {
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "numeroCartao": {
+            "type": "string",
+            "nullable": true
+          },
+          "cvv": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "parcelas": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ParcelasDTO": {
+        "type": "object",
+        "properties": {
+          "valorTotal": {
+            "type": "number",
+            "format": "double"
+          },
+          "taxaJuros": {
+            "type": "number",
+            "format": "double"
+          },
+          "qntdParcelas": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

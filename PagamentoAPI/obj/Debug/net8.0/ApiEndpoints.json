@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "PagamentoAPI.Controllers.CartoesController",
+    "Method": "ObterBandeira",
+    "RelativePath": "Cartoes/{cartao}/obter-bandeira",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartao",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.CartoesController",
+    "Method": "VerificarValidade",
+    "RelativePath": "Cartoes/{cartao}/valido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartao",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.PagamentosController",
+    "Method": "CriarPagamento",
+    "RelativePath": "Pagamentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PagamentoAPI.Model.DTOs.PagamentoRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.PagamentosController",
+    "Method": "CancelarPagamento",
+    "RelativePath": "Pagamentos/{id}/cancelar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.PagamentosController",
+    "Method": "ConfirmarPagamento",
+    "RelativePath": "Pagamentos/{id}/confirmar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.PagamentosController",
+    "Method": "ConsultarSituacao",
+    "RelativePath": "Pagamentos/{id}/situacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentoAPI.Controllers.PagamentosController",
+    "Method": "CalcularParcelas",
+    "RelativePath": "Pagamentos/calcular-parcelas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcelasDTO",
+        "Type": "PagamentoAPI.Model.DTOs.ParcelasDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

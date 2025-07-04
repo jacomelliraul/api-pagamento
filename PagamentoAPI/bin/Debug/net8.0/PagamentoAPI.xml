@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PagamentoAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PagamentoAPI.Controllers.CartoesController.ObterBandeira(System.String)">
+            <summary>
+            Obtem a bandeira do Cartao
+            </summary>
+            <param name="numeroCartao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.CartoesController.VerificarValidade(System.String)">
+            <summary>
+            Verificar cartão válido
+            </summary>
+            <param name="numeroCartao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.PagamentosController.CalcularParcelas(PagamentoAPI.Model.DTOs.ParcelasDTO)">
+            <summary>
+            Calcular Parcelas
+            </summary>
+            <param name="parcelasDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.PagamentosController.CriarPagamento(PagamentoAPI.Model.DTOs.PagamentoRequestDTO)">
+            <summary>
+            Efetuar um pagamento
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.PagamentosController.ConsultarSituacao(System.Int32)">
+            <summary>
+            Consultar situação da transação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.PagamentosController.ConfirmarPagamento(System.Int32)">
+            <summary>
+            Confirmar pagamento
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PagamentoAPI.Controllers.PagamentosController.CancelarPagamento(System.Int32)">
+            <summary>
+            Cancelar pagamento
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
